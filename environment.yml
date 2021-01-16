@@ -1,0 +1,19 @@
+name: coresimul
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - jupyterlab
+  - biopython
+  - nbformat=5.0.8
+  - matplotlib
+  - iqtree
+  - art
+  - r-ape
+  - r-irkernel
+  - r-phytools
+  - snippy
+prefix: /home/apetkau/miniconda3/envs/coresimul
